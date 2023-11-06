@@ -10,7 +10,7 @@
                 "endTime": "16:00",
                 "duration": 946684800000,
                 "date": "30.10.2023",
-                "transfers": 0
+                "transfers": "Без пересадок"
             }, {
                 "id": 2,
                 "from": "SVO",
@@ -22,7 +22,7 @@
                 "endTime": "14:30",
                 "duration": 946693800000,
                 "date": "30.10.2023",
-                "transfers": 1
+                "transfers": "1 пересадка"
             }, {
                 "id": 3,
                 "from": "SVO",
@@ -34,7 +34,7 @@
                 "endTime": "15:40",
                 "duration": 946708800000,
                 "date": "30.10.2023",
-                "transfers": 2
+                "transfers": "2 пересадки"
             }, {
                 "id": 4,
                 "from": "SVO",
@@ -46,7 +46,7 @@
                 "endTime": "13:30",
                 "duration": 946715400000,
                 "date": "30.10.2023",
-                "transfers": 3
+                "transfers": "3 пересадки"
             }, {
                 "id": 5,
                 "from": "SVO",
@@ -58,7 +58,7 @@
                 "endTime": "10:00",
                 "duration": 946684800000,
                 "date": "30.10.2023",
-                "transfers": 0
+                "transfers": "Без пересадок"
             }, {
                 "id": 6,
                 "from": "SVO",
@@ -70,7 +70,7 @@
                 "endTime": "5:20",
                 "duration": 946693200000,
                 "date": "30.10.2023",
-                "transfers": 1
+                "transfers": "1 пересадка"
             }, {
                 "id": 7,
                 "from": "SVO",
@@ -82,7 +82,7 @@
                 "endTime": "03:30",
                 "duration": 946708200000,
                 "date": "30.10.2023",
-                "transfers": 2
+                "transfers": "2 пересадки"
             }, {
                 "id": 8,
                 "from": "SVO",
@@ -94,7 +94,7 @@
                 "endTime": "10:20",
                 "duration": 946714800000,
                 "date": "30.10.2023",
-                "transfers": 3
+                "transfers": "3 пересадки"
             }, {
                 "id": 9,
                 "from": "SVO",
@@ -106,7 +106,7 @@
                 "endTime": "18:00",
                 "duration": 946684800000,
                 "date": "30.10.2023",
-                "transfers": 0
+                "transfers": "Без пересадок"
             }, {
                 "id": 10,
                 "from": "SVO",
@@ -118,7 +118,7 @@
                 "endTime": "10:30",
                 "duration": 946693800000,
                 "date": "30.10.2023",
-                "transfers": 1
+                "transfers": "1 пересадка"
             }, {
                 "id": 11,
                 "from": "SVO",
@@ -130,7 +130,7 @@
                 "endTime": "06:50",
                 "duration": 946709400000,
                 "date": "30.10.2023",
-                "transfers": 2
+                "transfers": "2 пересадки"
             }, {
                 "id": 12,
                 "from": "SVO",
@@ -142,6 +142,6 @@
                 "endTime": "01:10",
                 "duration": 946714200000,
                 "date": "30.10.2023",
-                "transfers": 3
+                "transfers": "3 пересадки"
             }]
             } 
