@@ -55,8 +55,8 @@
                 "price": 6547,
                 "currency": "P",
                 "startTime": "8:00",
-                "endTime": "10:00",
-                "duration": 946684800000,
+                "endTime": "09:50",
+                "duration": 946684200000,
                 "date": "30.10.2023",
                 "transfers": "Без пересадок"
             }, {
@@ -103,8 +103,8 @@
                 "price": 6320,
                 "currency": "P",
                 "startTime": "16:00",
-                "endTime": "18:00",
-                "duration": 946684800000,
+                "endTime": "17:55",
+                "duration": 946684500000,
                 "date": "30.10.2023",
                 "transfers": "Без пересадок"
             }, {
